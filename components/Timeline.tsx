@@ -31,14 +31,14 @@ const experience = [
   },
   {
     period: 'Sep 2024 – Present',
-    role: 'Founder & ERP Solutions Lead',
+    role: 'Founder & Digital Transformation Lead',
     company: 'Nexlify',
     type: 'Primary',
     highlights: [
-      'Founded Nexlify to deliver strategic ERP and business transformation solutions',
+      'Founded Nexlify to deliver strategic digital transformation and business modernization solutions',
       'Partner with established firms to scale high-impact projects across EMEA region',
       'Led Al-Shaheen mobile platform delivery: managed full lifecycle from discovery to production',
-      'Specialized in Oracle implementations, business analysis, and program management',
+      'Drive transformation across ERP implementations, system design, project management, and business analysis',
     ],
     badge: 'Founder',
   },
