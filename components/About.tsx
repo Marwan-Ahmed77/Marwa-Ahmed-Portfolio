@@ -50,11 +50,11 @@ export default function About() {
             >
               <span className="section-label block mb-4">About</span>
               <h2 className="font-display text-4xl sm:text-5xl font-semibold leading-tight mb-8">
-                More than an
+                ERP Consultant &
                 <br />
-                <span className="text-[var(--gold)] italic">ERP specialist —</span>
+                <span className="text-[var(--gold)] italic">Business Transformation</span>
                 <br />
-                a business partner.
+                Leader
               </h2>
             </motion.div>
 
@@ -65,13 +65,13 @@ export default function About() {
               className="space-y-5 text-[var(--text-secondary)] leading-relaxed font-body"
             >
               <p>
-                With a background spanning Oracle Fusion HCM implementation, full-stack development, and product management, I've developed a rare ability to see the <span className="text-[var(--text-primary)]">full picture</span> — from executive business strategy to database schema.
+                I help organizations redesign how they operate through strategic ERP implementations and business transformation. My unique perspective combines deep business analysis, program leadership, and technical architecture — enabling me to see the <span className="text-[var(--text-primary)]">full landscape</span> and deliver solutions that actually drive results.
               </p>
               <p>
-                At Redcon Construction, I led end-to-end Oracle HCM implementations — handling requirements gathering, configuration of complex organizational hierarchies, approval workflows, and go-live support for a workforce spanning multiple locations. I don't just configure systems; I redesign <span className="text-[var(--text-primary)]">how people work</span>.
+                At Redcon Construction, I led end-to-end Oracle Fusion HCM implementation while designing innovative employee experiences — including an Onboarding System and Benefits Portal. I don't just configure software; I fundamentally improve <span className="text-[var(--text-primary)]">how organizations work</span> and how employees experience their workplace.
               </p>
               <p>
-                My technical depth as a full-stack developer (React, Java, Oracle SQL, Python) gives me an uncommon edge: I can read code, challenge technical estimates, and architect integrations that other consultants must outsource. This saves clients time, budget, and risk.
+                My technical depth in full-stack development, Oracle architecture, and system design gives me a critical edge: I can evaluate technical feasibility, lead engineering discussions at depth, and make informed decisions that other consultants must outsource. This saves clients time, budget, and mitigates risk.
               </p>
             </motion.div>
 

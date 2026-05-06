@@ -12,10 +12,10 @@ export default function Footer() {
           <span className="font-body text-sm text-[var(--text-muted)]">Marwan Ahmed · ERP Consultant</span>
         </div>
         <div className="flex items-center gap-6">
-          <a href="mailto:marwan.ahmed@email.com" className="font-mono text-xs text-[var(--text-muted)] hover:text-[var(--gold)] transition-colors">
+          <a href="mailto:marwan.a.gaballah@gmail.com" className="font-mono text-xs text-[var(--text-muted)] hover:text-[var(--gold)] transition-colors">
             Email
           </a>
-          <a href="https://linkedin.com/in/marwan-ahmed" target="_blank" rel="noopener noreferrer" className="font-mono text-xs text-[var(--text-muted)] hover:text-[var(--gold)] transition-colors">
+          <a href="https://www.linkedin.com/in/marwan-ahmed-035472222/" target="_blank" rel="noopener noreferrer" className="font-mono text-xs text-[var(--text-muted)] hover:text-[var(--gold)] transition-colors">
             LinkedIn
           </a>
           <span className="font-mono text-xs text-[var(--text-muted)]">© {year}</span>

@@ -9,7 +9,7 @@ export default function Contact() {
   const [copied, setCopied] = useState(false)
 
   const copyEmail = () => {
-    navigator.clipboard.writeText('marwan.ahmed@email.com')
+    navigator.clipboard.writeText('marwan.a.gaballah@gmail.com')
     setCopied(true)
     setTimeout(() => setCopied(false), 2000)
   }
@@ -33,7 +33,7 @@ export default function Contact() {
               <span className="text-[var(--gold)] italic">ERP success story</span>
             </h2>
             <p className="font-body text-[var(--text-secondary)] text-lg leading-relaxed mb-12 max-w-xl mx-auto">
-              Whether you're planning a greenfield Oracle HCM implementation, optimizing an existing system, or need a skilled PM to rescue a troubled project — let's talk.
+              Whether you're planning a greenfield Oracle implementation, transforming your business processes, or need experienced leadership for a critical ERP project — let's discuss how I can help.
             </p>
           </motion.div>
 
@@ -44,7 +44,7 @@ export default function Contact() {
             className="flex flex-col sm:flex-row gap-4 justify-center mb-16"
           >
             <a
-              href="mailto:marwan.ahmed@email.com"
+              href="mailto:marwan.a.gaballah@gmail.com"
               className="group px-8 py-4 bg-[var(--gold)] text-[var(--ink)] font-body font-semibold text-sm tracking-widest uppercase hover:bg-[var(--gold-light)] transition-all duration-300 flex items-center justify-center gap-2 rounded-sm"
             >
               Send Me an Email
@@ -53,7 +53,7 @@ export default function Contact() {
               </svg>
             </a>
             <a
-              href="https://linkedin.com/in/marwan-ahmed"
+              href="https://www.linkedin.com/in/marwan-ahmed-035472222/"
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-4 border border-white/15 text-[var(--text-primary)] font-body font-medium text-sm tracking-wider hover:border-[var(--gold)]/40 hover:bg-white/3 transition-all duration-300 flex items-center justify-center gap-2 rounded-sm"

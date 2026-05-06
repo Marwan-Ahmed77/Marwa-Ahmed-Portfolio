@@ -47,7 +47,7 @@ export default function Hero() {
               animate="show"
               className="flex items-center gap-3 mb-8"
             >
-              <span className="section-label">Oracle Fusion HCM Specialist</span>
+              <span className="section-label">ERP Functional Consultant & Project Manager</span>
               <div className="flex-1 h-px bg-gradient-to-r from-[var(--gold)]/30 to-transparent max-w-24" />
               <span className="w-1.5 h-1.5 rounded-full bg-[var(--gold)] animate-pulse" />
             </motion.div>
@@ -59,11 +59,11 @@ export default function Hero() {
               animate="show"
               className="font-display text-5xl sm:text-6xl lg:text-7xl font-semibold leading-[1.05] mb-6"
             >
-              ERP Consultant
+              Driving Business
               <br />
-              <span className="text-[var(--gold)] italic">&amp; Transformation</span>
+              <span className="text-[var(--gold)] italic">Transformation</span>
               <br />
-              Leader
+              Through Systems
             </motion.h1>
 
             <motion.p
@@ -73,7 +73,7 @@ export default function Hero() {
               animate="show"
               className="text-[var(--text-secondary)] text-lg leading-relaxed max-w-xl mb-10 font-body"
             >
-              I bridge the gap between <span className="text-[var(--text-primary)]">business complexity</span> and <span className="text-[var(--text-primary)]">technical execution</span> — delivering Oracle Fusion HCM implementations that actually transform how organizations operate.
+              I partner with organizations to design and implement ERP solutions that drive real business impact. From business analysis and project leadership to technical delivery — I see the full picture and deliver results.
             </motion.p>
 
             <motion.div
@@ -109,9 +109,9 @@ export default function Hero() {
               className="flex gap-8 mt-14 pt-8 border-t border-white/5"
             >
               {[
-                { value: '3+', label: 'Years ERP\nExperience' },
+                { value: '3+', label: 'Years ERP\nConsulting' },
                 { value: '5+', label: 'Oracle HCM\nModules' },
-                { value: '4+', label: 'Enterprise\nDeliveries' },
+                { value: '6+', label: 'Business\nTransformations' },
               ].map((stat) => (
                 <div key={stat.label}>
                   <div className="font-display text-3xl font-semibold text-[var(--gold)]">{stat.value}</div>
